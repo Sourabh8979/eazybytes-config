@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs"
+  contactDetails:
+    name: "Jai Kumar - Product Lead"
+    email: "kumarjai@gmail.com"
+  onCallSupport:
+    -9876223888
+    -9998887771

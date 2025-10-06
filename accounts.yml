@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local Apis"
+  contactDetails:
+    name: "Sourabh Nirwal - Developer"
+    email: "snsnirwal396@gmail.com"
+  onCallSupport:
+    -8979174340
+    -8859399864
+
+

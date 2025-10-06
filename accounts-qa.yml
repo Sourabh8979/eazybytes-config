@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Sushrut Kaushik - QA Lead"
+    email: "sushKaush@gmail.com"
+  onCallSupport:
+    -9876543210
+    -8867562321
