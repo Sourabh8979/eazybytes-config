@@ -5,7 +5,8 @@ accounts:
   message: "Welcome to EazyBank accounts related Prod APIs"
   contactDetails:
     name: "Jai Kumar - Product Lead"
-    email: "kumarjai@gmail.com"
+    email: "{cipher}680e92d8b3844e7969684913e96036c9a6494641060bb35db2638b9f2572b80a096882585fa87db81562e2cd57f2d89b"
   onCallSupport:
     -9876223888
+
     -9998887771
